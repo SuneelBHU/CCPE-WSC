@@ -13,10 +13,10 @@ Install all the dependencies
 1. WSC: Proposed Algorithm WSC performance
 
 Graph.py file creates all types of network graph
-ExistingAlgorithm.py imports the Graph.py, runs the algorithm, and provides output to the run_script.py file
+Existing_Algorithm.py imports the Graph.py, runs the algorithm, and provides output to the run_script.py file
 WSC_Algorithm.py imports Graph.py, runs the WSC algorithm, and provides the output data to the run_script.py file
 
-The above three Python files are run through run_script.py 
+The above three Python scripts are run through run_script.py 
 
 Set the path as per your directories to save the performance graph 
 
